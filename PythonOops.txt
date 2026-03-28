@@ -1,0 +1,95 @@
+🎯 OOP INTERVIEW QUESTIONS & ANSWERS (Simple + Strong)
+
+1. What is OOP?
+👉 Answer:
+OOP (Object-Oriented Programming) is a programming style where we organize code using classes and objects, similar to real-world entities.
+It helps in writing clean, reusable, and scalable code.
+
+2. What is a Class?
+👉 Answer:
+A class is a blueprint or template used to create objects.
+It defines variables and methods.
+
+4. What is self in Python?
+👉 Answer:
+self refers to the current object.
+It is used to access variables and methods inside the class.
+
+5. What is a Constructor?
+👉 Answer:
+A constructor is a special method __init__() that is automatically called when an object is created.
+It is used to initialize object data.
+
+6. What is Encapsulation?
+👉 Answer:
+Encapsulation means hiding data and allowing access through methods.
+It helps protect data from direct modification.
+
+7. Types of Access Modifiers?
+👉 Answer:
+Public → normal access
+Protected → _variable
+Private → __variable
+
+8. What is Inheritance?
+👉 Answer:
+Inheritance allows one class to reuse properties and methods of another class.
+It improves code reusability.
+
+9. Types of Inheritance?
+👉 Answer:
+Single
+Multiple
+Multilevel
+
+10. What is Polymorphism?
+👉 Answer:
+Polymorphism means same method name with different behavior.
+
+11. What is Method Overriding?
+👉 Answer:
+When a child class provides its own implementation of a method already defined in the parent class.
+
+
+12. What is Method Overloading?
+👉 Answer:
+Python does not support true method overloading.
+We achieve it using default arguments or variable arguments.
+
+13. What is Abstraction?
+👉 Answer:
+Abstraction means hiding internal implementation and showing only essential features.
+
+14. What is an Abstract Class?
+👉 Answer:
+A class that contains abstract methods (methods without body) and cannot be instantiated.
+
+15. Difference Between Class & Object?
+👉 Answer:
+Class	      Object
+Blueprint	  Instance
+Logical    	  Physical
+
+16. Instance Variable vs Class Variable?
+👉 Answer:
+Instance variable → unique for each object
+Class variable → shared among all objects
+
+17. Types of Methods?
+👉 Answer:
+Instance Method
+Class Method (@classmethod)
+Static Method (@staticmethod)
+
+8. What is super()?
+👉 Answer:
+super() is used to call methods of the parent class inside the child class.
+
+19. What is __str__()?
+👉 Answer:
+It is used to define how an object should be printed as a string.
+
+20. What is Destructor?
+👉 Answer:
+__del__() is called when an object is destroyed.
+Used for cleanup tasks.

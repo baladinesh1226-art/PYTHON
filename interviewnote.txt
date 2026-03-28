@@ -1,0 +1,4 @@
+What is try-except in Python?
+Simple Definition (Interview Style)
+try-except is used for exception handling —it allows your program to handle errors without crashing.
+
