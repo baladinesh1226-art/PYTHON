@@ -1,39 +1,32 @@
-notes
 
 1. LIST (Most important)
 A list is an ordered, mutable collection that allows duplicate values.
-
 Key Points:
 Ordered
 Mutable (can change)
 Allows duplicates 
 Indexing possible 
  
-Tuple
+2.Tuple
 tuple is an ordered, immutable collection.
-
 Key Points:
 Ordered 
 Immutable  
 Allows duplicates
 Faster than list
 
-
-3. Set 
+3.Set
 Set is unorderd collection of unique elements.
 key points:
 Unordered
 no duplicate
 Mutable
 Uses hashing internally
-
 s = {1, 2, 3, 2}
 print(s)  # {1, 2, 3}
 
-4. Dictionary 
-
+4. Dictionary
 A dictionary is a collection of key-value pairs
-
 key points:
 key must be unique
 mutable 

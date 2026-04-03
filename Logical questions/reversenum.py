@@ -20,7 +20,6 @@ def palindrome(num):
 
     return original == ans
 
-
 #digit count
 def degitCout(num):
     count =0
@@ -32,5 +31,3 @@ def degitCout(num):
 inpt = 123454321
 print("Is this number a palindrome?", palindrome(inpt))
 print("Is this number a degit?", degitCout(inpt))
-
-
