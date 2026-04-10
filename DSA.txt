@@ -1,0 +1,37 @@
+1. What is data structure.
+ans:
+    Data structure is a way of organizing and storing data
+so that we can use efficiently
+ex:
+    List      --> store ordered data
+    Set       --> store unique data
+    Dictionary--> store key-value pairs
+
+
+2. What is algorithm?
+ans:
+    An algorith is a step-by-step process to solve a problem.
+ex:
+    Search a number in a list is an algorithm
+
+
+
+3. What is time complexity?
+ans:
+    It shows how the running time of a program increases as the input size grows
+ex:
+    O(1)--> constant
+    O(n)--> Linear
+    O(log n) Binary search
+
+
+
+4. What is Space complexity?
+ans:
+    Space complexity is the amount of memory used by an algorithm.
+
+
+5. Difference Between List, Tuple, Set, Dictionary?
+
+Type                Key Features
+List                Ordered
